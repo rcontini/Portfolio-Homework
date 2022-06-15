@@ -107,3 +107,24 @@ p {
   text-decoration: underline;
   cursor: pointer;
 }
+
+@media (max-width: 576px) {
+  h1 {
+    font-size: 48px;
+  }
+  h2 {
+    font-size: 32px;
+    text-align: center;
+  }
+  h3 {
+    font-size: 24px;
+  }
+  p {
+    text-align: center;
+  }
+  .project-link {
+    display: block;
+    text-align: center;
+    margin: 0 20px;
+  }
+}
