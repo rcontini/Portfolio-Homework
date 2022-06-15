@@ -128,3 +128,6 @@ p {
     margin: 0 20px;
   }
 }
+.about-paragraphs.p {
+  margin: 10px;
+}
